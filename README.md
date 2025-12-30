@@ -1,6 +1,6 @@
-Smart Hospital: Hardware-Free RFID Patient Tracking System 
+### Smart Hospital: Hardware-Free RFID Patient Tracking System 
 
- Project Overview
+###  Project Overview
 
 This project simulates a Device-Free Localization (DFL) system for healthcare environments.
 Traditional patient tracking requires patients to wear tags, which can be uncomfortable or lost. This research proposes a method to track patient location using RSSI (Received Signal Strength Indicator) fluctuations from fixed RFID tags on the wall, eliminating the need for wearable devices.
@@ -8,15 +8,15 @@ Traditional patient tracking requires patients to wear tags, which can be uncomf
 Status: Master's  (Saga University, Japan)
 Conference: Accepted for EAI BODYNETS 2025 
 
- Technologies Used
+### Technologies Used
 
-Simulation Core: MATLAB (RSSI Data Analysis & Signal Processing)
+Simulation Core: MATLAB (RSSI Data Analysis)
 
-Visualization: Unity 3D (C#) for VR/Digital Twin representation
+Visualization: Unity 3D (C#) & Adobe Illustrator (UI Design)
 
-Data Analysis: Python (Data plotting and verification)
+Data Analysis: Python (Data plotting and verification)](https://github.com/MHUdoy11?tab=repositories
 
- How It Works
+### How It Works
 
 Signal Collection: RFID antennas placed in the room detect signal changes (RSSI) when a person moves.
 
@@ -24,7 +24,7 @@ Processing: MATLAB algorithms filter the noise and calculate the person's coordi
 
 Visualization: The calculated coordinates are sent to Unity 3D to move a virtual avatar in real-time.
 
-File Structure
+### File Structure
 
 /MATLAB_Sim: Contains the main .m simulation scripts.
 
@@ -32,7 +32,7 @@ File Structure
 
 /Docs: Research papers and presentation slides.
 
- Future Scope
+ ### Future Scope
 
 Improving accuracy using Machine Learning algorithms in Python.
 

@@ -6,7 +6,7 @@ This project simulates a Device-Free Localization (DFL) system for healthcare en
 Traditional patient tracking requires patients to wear tags, which can be uncomfortable or lost. This research proposes a method to track patient location using RSSI (Received Signal Strength Indicator) fluctuations from fixed RFID tags on the wall, eliminating the need for wearable devices.
 
 Status: Master's  (Saga University, Japan)
-Conference: Accepted for EAI BODYNETS 2025
+Conference: Accepted for EAI BODYNETS 2025 
 
  Technologies Used
 

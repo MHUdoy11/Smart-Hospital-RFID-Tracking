@@ -1,5 +1,11 @@
 ### Smart Hospital: Hardware-Free RFID Patient Tracking System 
 
+## 🤖 AI-Augmented Development
+This project demonstrates modern engineering efficiency:
+* **Architecture & Logic:** Designed by Hasan Md Mehedi.
+* **Code Generation:** Boilerplate C# and MATLAB scripts generated via Gemini/LLMs.
+* **Verification:** All AI-generated code was reviewed, debugged, and optimized for simulation accuracy.
+
 ###  Project Overview
 
 This project simulates a Device-Free Localization (DFL) system for healthcare environments.
